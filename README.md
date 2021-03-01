@@ -1,7 +1,7 @@
 # Software Project
 * Dhruval Shah
 
-### Project Title : Dish Close
+### Project Title : <a href = "https://github.com/Dhruval10/Dish-Close"> Dish Close </a>
 
 ### Project Description:
 Have you ever wondered what special ingredient makes your 
